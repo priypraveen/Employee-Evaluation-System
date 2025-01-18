@@ -1,8 +1,7 @@
 # Employee-Evaluation-System
 The Employee Evaluation System is a comprehensive solution designed to streamline the process of assessing employee performance, attendance, and teamwork in an organization. This system empowers businesses to make informed decisions about employee development, rewards, and training needs by providing a structured and data-driven evaluation process.
 
-
-#L
+*** 
 
 
 
