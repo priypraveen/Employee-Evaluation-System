@@ -13,20 +13,34 @@ Organizations often face challenges in evaluating employees objectively and cons
 ### Key Features
 	
  1.	User Management:
+    
 	•	Role-based access control with roles such as Admin and Evaluator.
 	•	Admins can manage users, including adding, updating, or removing evaluators.
+
  2.	Employee Evaluation:
+
 	•	Input scores for employees across key metrics like performance, attendance, and teamwork.
 	•	Automatically calculate overall scores and assign ratings such as “Excellent,” “Good,” “Average,” or “Needs Improvement.”
+ 
  3.	Interactive Dashboard:
+    
 	•	Visual representation of employee performance.
 	•	Filter and search for specific employees or evaluation reports.
+
  4.	Secure and Scalable:
+    
 	•	User authentication ensures only authorized personnel can access sensitive data.
 	•	Built to scale with growing organizational needs.
 
+***
+#### How It Works:
+	
+1.	Login: Users log in based on their roles (Admin/Evaluator).
+2.	Evaluation: Evaluators add scores for employees using predefined metrics.
+3.	User Management: Admins manage users and their roles.
+4.	Reports: Generate and view detailed evaluation reports.
 
-
+***
 
 #### Project Assessment Criteria
 
